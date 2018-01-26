@@ -19,7 +19,7 @@ import org.springframework.stereotype.Service;
  *
  */
 
-@Service // marks as service class 
+@Service // marks as service class
 public class CustomerService {
 
 	@Autowired
